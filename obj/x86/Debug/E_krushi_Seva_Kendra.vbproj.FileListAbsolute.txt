@@ -1,0 +1,40 @@
+C:\Users\Dell\documents\visual studio 2010\Projects\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\bin\Debug\E_krushi_Seva_Kendra.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\bin\Debug\E_krushi_Seva_Kendra.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\bin\Debug\E_krushi_Seva_Kendra.xml
+C:\Users\Dell\documents\visual studio 2010\Projects\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.Resources.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.vbproj.GenerateResource.Cache
+C:\Users\Dell\documents\visual studio 2010\Projects\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.xml
+C:\Users\Dell\documents\visual studio 2010\Projects\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.fem_login.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.Amachya_Vishayi.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.Main_Menu.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.exe
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.xml
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.pdb
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\bin\Debug\E_krushi_Seva_Kendra.exe
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\bin\Debug\E_krushi_Seva_Kendra.pdb
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\bin\Debug\E_krushi_Seva_Kendra.xml
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.fem_login.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.Main_Menu.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.Resources.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.vbproj.GenerateResource.Cache
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.uc_Add_New_Customer.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.uc_Add_New_Product.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.uc_Add_New_Stock.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.uc_Change_Password.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.uc_Delete_User.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.uc_Update_Customer.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.uc_Update_Product.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.uc_Add_New_User.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.uc_View_Customer.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.uc_View_Product_Details.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.uc_View_stock.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.uc_About_Fertilizers.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.uc_Nitrogenous_Fertilizers.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.uc_Organic_Nitrogenous_Fertilizers.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.uc__Compound_Fertilizers.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.uc_Complete_Fertilizer__NPK_.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.uc_Nitrogenous_Fertilizers2.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.uc_Phosphate_Fertilizers.resources
+E:\E_Krushi_Seva_Kendra\E_krushi_Seva_Kendra\E_krushi_Seva_Kendra\obj\x86\Debug\E_krushi_Seva_Kendra.uc_Potassic_Fertilizers.resources
